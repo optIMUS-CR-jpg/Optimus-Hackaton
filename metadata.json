@@ -1,0 +1,6 @@
+{
+  "name": "CIAN Productivity",
+  "description": "An all-in-one productivity suite featuring CIAN AI Chat, Smart Calendar, Eisenhower Matrix, Notes, and Pomodoro Timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Chat", "Task Management", "Time Tracking"]
+}
